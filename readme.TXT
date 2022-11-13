@@ -1,2 +1,2 @@
-please add some bunch of codes to run it. go for pixe.la and you'll find instructions in the docs.
-feel free to use it...
+Add your Pixela informations inside of the main.py file then run it!
+For Pixela docs --> https://docs.pixe.la/
